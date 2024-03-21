@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.sampledemoapplication.app-mergeDebugResources-38:/layout/activity_add_details.xml",
+        "source": "com.example.sampledemoapplication.app-main-41:/layout/activity_add_details.xml"
+    },
+    {
+        "merged": "com.example.sampledemoapplication.app-mergeDebugResources-38:/layout/activity_main.xml",
+        "source": "com.example.sampledemoapplication.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.sampledemoapplication.app-mergeDebugResources-38:/layout/user_item_list.xml",
+        "source": "com.example.sampledemoapplication.app-main-41:/layout/user_item_list.xml"
+    },
+    {
+        "merged": "com.example.sampledemoapplication.app-mergeDebugResources-38:/layout/activity_maps.xml",
+        "source": "com.example.sampledemoapplication.app-main-41:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "com.example.sampledemoapplication.app-mergeDebugResources-38:/layout/activity_edit_details.xml",
+        "source": "com.example.sampledemoapplication.app-main-41:/layout/activity_edit_details.xml"
+    }
+]
